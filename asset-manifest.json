@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AReboot/static/css/main.09387670.chunk.css",
+    "main.js": "/AReboot/static/js/main.b891fc4b.chunk.js",
+    "main.js.map": "/AReboot/static/js/main.b891fc4b.chunk.js.map",
+    "runtime-main.js": "/AReboot/static/js/runtime-main.39589656.js",
+    "runtime-main.js.map": "/AReboot/static/js/runtime-main.39589656.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/AReboot/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.42e8e8d4.chunk.js": "/AReboot/static/js/2.42e8e8d4.chunk.js",
+    "static/js/2.42e8e8d4.chunk.js.map": "/AReboot/static/js/2.42e8e8d4.chunk.js.map",
+    "static/js/3.76c5b098.chunk.js": "/AReboot/static/js/3.76c5b098.chunk.js",
+    "static/js/3.76c5b098.chunk.js.map": "/AReboot/static/js/3.76c5b098.chunk.js.map",
+    "index.html": "/AReboot/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/AReboot/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.09387670.chunk.css.map": "/AReboot/static/css/main.09387670.chunk.css.map",
+    "static/js/2.42e8e8d4.chunk.js.LICENSE.txt": "/AReboot/static/js/2.42e8e8d4.chunk.js.LICENSE.txt",
+    "static/media/alex.f19963a8.jpg": "/AReboot/static/media/alex.f19963a8.jpg",
+    "static/media/bigtree.e0e225a3.jpg": "/AReboot/static/media/bigtree.e0e225a3.jpg",
+    "static/media/greenery.e0bc11f0.jpg": "/AReboot/static/media/greenery.e0bc11f0.jpg",
+    "static/media/pond.c8d44f1c.jpg": "/AReboot/static/media/pond.c8d44f1c.jpg",
+    "static/media/trees.36081d09.jpg": "/AReboot/static/media/trees.36081d09.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39589656.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.42e8e8d4.chunk.js",
+    "static/css/main.09387670.chunk.css",
+    "static/js/main.b891fc4b.chunk.js"
+  ]
+}
