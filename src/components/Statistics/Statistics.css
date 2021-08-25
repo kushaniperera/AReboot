@@ -1,0 +1,13 @@
+.statistics {
+  margin: 20px 0px;
+}
+
+.backbox {
+margin-bottom: 30px;
+  padding: 30px;
+  background: #ececec;
+}
+
+.ant-statistic-title {
+  font-size: x-large;
+}
